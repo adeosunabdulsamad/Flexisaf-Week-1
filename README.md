@@ -46,7 +46,7 @@ The output will include:
 
 ## Author
 
-- [AbdulSamad Adeosun](https://github.com/adeosunabdulsamad)
+- [Abdulsamad Adeosun](https://github.com/adeosunabdulsamad)
 
 ## License
 
